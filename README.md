@@ -58,7 +58,7 @@ employee-management
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/DeveloperAkashx/Employee-Management-System-Java.git
 ```
 
 ### 2. Open Project
@@ -151,7 +151,7 @@ Example Response:
 
 **Akash Patil**
 
-- GitHub: https://github.com/DeveloperAkashX
+- GitHub: https://github.com/DeveloperAkashx
 - LinkedIn: https://www.linkedin.com/in/akashpatilprofessional
 
 ---
